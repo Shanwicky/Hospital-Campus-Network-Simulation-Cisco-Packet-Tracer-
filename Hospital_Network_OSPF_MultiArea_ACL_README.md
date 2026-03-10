@@ -1,8 +1,5 @@
 # Hospital Network Project – OSPF, WAN, and Security Implementation
 
-## Overview
-This project implements a realistic enterprise-style hospital network using Cisco Packet Tracer.
-The focus is on routing design, resiliency, security, and verification — not just configuration.
 
 ---
 
